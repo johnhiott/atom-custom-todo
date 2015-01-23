@@ -1,0 +1,16 @@
+{
+  "name": "atom-custom-todo",
+  "main": "./lib/atom-custom-todo",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "activationCommands": {
+    "atom-workspace": "atom-custom-todo:toggle"
+  },
+  "repository": "https://github.com/atom/atom-custom-todo",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "dependencies": {
+  }
+}
